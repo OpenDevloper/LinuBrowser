@@ -11,3 +11,4 @@ steps:
 7. Now Type python3 LinuBrowser.py.
 8. good to go!
 9. hope you loove this browser, devloping more LInu Suit of apps!
+Update: Executables are now available for windows 11/10/7/vista
